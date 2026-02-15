@@ -25,4 +25,5 @@
 13° Atualizar e verificar novamente e prosseguir e apagar os volumes e deixar atualizado do zero limpooO
 14° Subir os containers com o -d na hr de buildar o docker
 15° Verificar todos containers ativos
-16° Testar cada container idependente e depois subir todos juntos 
+16° Testar cada container idependente e depois subir todos juntos
+17° Commitar e enviar o Init do projeto
