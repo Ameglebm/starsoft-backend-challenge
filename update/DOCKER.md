@@ -17,13 +17,13 @@
 5° Testar o docker com uma mensagem funcionando todos os containers = OK 
 6° Verificar se tem container rodando em docker ps = OK
 7° Se tiver matar e começar zerado sudo lsof i :..... e sudo kill .... e nao esquecer de ver os containers parados docker ps -a ou remover manualmente se nao sair por nd docker rm {id} = OK
-8° Analisar todos containers feitos e se esta funcionando idependente ou em conjunto tambem e verificar documentaçãocom versões para nao ter erro de versão
-9° Começar a criar o nest e suas dependencias,  usa o npx @nestjs/cli new . --skip-install q ele já se ajusta com a pasta atual e global
-10° Depois de instalado e funcionando no container verificar atulizacoes e dependencias tbm limpar nodemodules, tsconf,pck.json e limpar o cache para nenhum erro aftansma e depois instala rnovamnte
-11° Verificar pacotes atualizados npm outdated e atualize os que estiverem desatualizados e depois refazer a etapa 10
+8° Analisar todos containers feitos e se esta funcionando idependente ou em conjunto tambem e verificar documentaçãocom versões para nao ter erro de versão = OK
+9° Começar a criar o nest e suas dependencias,  usa o npx @nestjs/cli new . --skip-install q ele já se ajusta com a pasta atual e global = OK
+10° Depois de instalado e funcionando no container verificar atulizacoes e dependencias tbm limpar nodemodules, tsconf,pck.json e limpar o cache para nenhum erro aftansma e depois instala rnovamnte = OK
+11° Verificar pacotes atualizados npm outdated e atualize os que estiverem desatualizados e depois refazer a etapa 10 = OK
 12° rodar o projeto e verificar se ainda há erros ou atualizações necessarias
-13° Atualizar e verificar novamente e prosseguir e apagar os volumes e deixar atualizado do zero limpooO
-14° Subir os containers com o -d na hr de buildar o docker
-15° Verificar todos containers ativos
-16° Testar cada container idependente e depois subir todos juntos
-17° Commitar e enviar o Init do projeto
+13° Atualizar e verificar novamente e prosseguir e apagar os volumes e deixar atualizado do zero limpooO = OK
+14° Subir os containers com o -d na hr de buildar o docker = OK
+15° Verificar todos containers ativos = OK
+16° Testar cada container idependente e depois subir todos juntos = OK
+17° Commitar e enviar o Init do projeto = ok
